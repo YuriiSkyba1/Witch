@@ -129,22 +129,22 @@ h2 {
     padding: 25px;
   }
   h1 {
-    font-size: 157px;
+    font-size: 167px;
   }
   h2 {
-    font-size: 50px;
+    font-size: 54px;
   }
   .copy {
-    width: 380px;
+    width: 400px;
   }
   .copy_button {
     font-size: 14px;
   }
   .copy_title {
-    font-size: 28px;
+    font-size: 30px;
   }
   .play {
-    padding: 20px 80px;
+    padding: 25px 100px;
   }
 }
 
